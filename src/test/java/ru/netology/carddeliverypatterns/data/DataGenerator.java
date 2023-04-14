@@ -1,4 +1,4 @@
-package ru.netology.CardDeliveryPatterns.data;
+package ru.netology.carddeliverypatterns.data;
 
 import com.github.javafaker.Faker;
 import lombok.Value;

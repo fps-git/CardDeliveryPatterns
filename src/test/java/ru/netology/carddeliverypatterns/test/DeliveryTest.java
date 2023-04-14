@@ -1,11 +1,11 @@
-package ru.netology.CardDeliveryPatterns.test;
+package ru.netology.carddeliverypatterns.test;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
 
-import ru.netology.CardDeliveryPatterns.data.DataGenerator;
+import ru.netology.carddeliverypatterns.data.DataGenerator;
 
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selectors.byTagAndText;

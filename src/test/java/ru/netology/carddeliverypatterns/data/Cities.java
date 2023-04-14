@@ -1,4 +1,4 @@
-package ru.netology.CardDeliveryPatterns.data;
+package ru.netology.carddeliverypatterns.data;
 
 public class Cities {
     public static String[] cities = {
